@@ -10,3 +10,5 @@ Utilizei a linguagem Python para realizar uma conexão com um banco de dados SQL
 A solução encontrada por mim foi um dashboard com filtros e gráficos dinâmicos. Esses filtros e gráficos me possibilita visualizar o histórico das proposições geradas pelos vereadores e separar essas proposições em diversas categorias como: assunto, ano, autor, situação. Assim eu consegui ter uma clara noção do trabalho realizado pelos vereadores ao logo dos anos e, por exemplo, temas mais abordados, períodos do ano com maior volume de apresentações
 
 ![Dashboard](https://github.com/MatheusFCBarros/WebScrapping_com_Python_SQL_e_PowerBI/blob/main/DASHBOARD.png)
+
+link para o Dashboard : https://lnkd.in/dvkxr4ji
